@@ -1,0 +1,52 @@
+
+body {
+    font: normal 13pt georgia;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+}
+header {
+    text-align: justify;
+    color: rgb(215, 245, 250);
+    margin: 30px;
+    
+}
+div {
+    color: rgb(147, 147, 147);
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px 5px 10px;
+    width: 300px;
+    bottom: 30px;
+    margin: 30px;
+    box-shadow: 3px 3px 30px rgb(86, 86, 86);
+    
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+    color: rgb(215, 245, 250);
+}
+h3 {
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    color: rgb(215, 245, 250);
+}
+p {
+    margin: 10px;
+}
+img {
+    width: 200px;
+    border-radius: 100%;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto 
+    
+
+}
+a {
+    color: beige;
+    font-size: 15px;
+}
